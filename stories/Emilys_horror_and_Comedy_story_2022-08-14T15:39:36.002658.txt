@@ -1,0 +1,31 @@
+A Comedy yet horror story about Emily: 
+Opening prompt sent to the AI: Hi, my name is: Emily. Write the first paragraph of a Comedy choose your own adventure story in a horror tone: 
+AI response: 
+
+You're walking down a dark, spooky street. Suddenly, you see a figure in the distance. You can't make out who it is, but they're slowly coming closer. You start to feel uneasy. What do you do?
+
+A. Run away!
+B. Stand your ground and see who it is.
+C. Hide behind a nearby tree. 
+Emily's response: A 
+AI response: 
+
+A. You take off running as fast as you can! The figure is hot on your heels, but you manage to lose them. You're out of breath and your heart is racing. You can't believe what just happened. You look back to see the figure, but they're gone. You're safe...for now. 
+
+
+A. You take off running as fast as you can! The figure is hot on your heels, but you manage to lose them. You're out of breath and your heart is racing. You can't believe what just happened. You look back to see the figure, but they're gone. You're safe...for now. 
+Emily's response: I fire a warning shot! 
+AI response: 
+
+B. The figure doesn't react and continues to approach you. You take a few steps back and raise your gun, firing a warning shot into the air. The figure stops and looks at you. They don't seem scared, just curious. Now what? 
+
+
+B. The figure doesn't react and continues to approach you. You take a few steps back and raise your gun, firing a warning shot into the air. The figure stops and looks at you. They don't seem scared, just curious. Now what? 
+Emily's response: I reconsider my life choices. 
+AI response: 
+
+A. You turn and run the other way, screaming at the top of your lungs. The figure doesn't give chase, but you can hear its laughter following you as you flee. You round a corner and come face to face with a dead end. The figure is now blocking your only way out. You're trapped. 
+
+
+A. You turn and run the other way, screaming at the top of your lungs. The figure doesn't give chase, but you can hear its laughter following you as you flee. You round a corner and come face to face with a dead end. The figure is now blocking your only way out. You're trapped. 
+The game ended on turn 1.Emily's experience totaled 772 at level 7.72

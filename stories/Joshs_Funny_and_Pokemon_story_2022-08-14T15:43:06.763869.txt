@@ -1,0 +1,34 @@
+A Pokemon yet Funny story about Josh: 
+Opening prompt sent to the AI: Hi, my name is: Josh. Write the first paragraph of a Pokemon choose your own adventure story in a Funny tone: 
+AI response: 
+
+You're walking through the tall grass, minding your own business, when you see a rustling in the bushes. You tense up, preparing for a fight, when a small, yellow creature pops out. It looks up at you with its big, black eyes and chirps softly.
+
+What do you do?
+
+Do you:
+A) Run away screaming
+B) Try to catch it
+C) Poke it with a stick 
+Josh's response: B 
+AI response: 
+
+The creature seems docile, so you slowly approach it and extend your hand. It smells your hand curiously before taking a step closer to you. You pet its head gently and it coos. Suddenly, you hear rustling from the bushes again. You tense up, preparing for another fight, when a large, green creature bursts out. It's twice the size of the yellow creature and it looks angry.
+
+What do you do?
+
+Do you:
+A) Try to catch the green creature
+B) Fight the green creature
+C) Run away 
+
+
+The creature seems docile, so you slowly approach it and extend your hand. It smells your hand curiously before taking a step closer to you. You pet its head gently and it coos. Suddenly, you hear rustling from the bushes again. You tense up, preparing for another fight, when a large, green creature bursts out. It's twice the size of the yellow creature and it looks angry.
+
+What do you do?
+
+Do you:
+A) Try to catch the green creature
+B) Fight the green creature
+C) Run away 
+The game ended on turn 2.Josh's experience totaled 479 at level 4

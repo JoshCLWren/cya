@@ -1,0 +1,13 @@
+A Horror yet Funny story about Jorge: 
+Opening prompt sent to the AI: Hi, my name is: Jorge. Write the first paragraph of a Horror choose your own adventure story in a Funny tone: 
+AI response: 
+
+You're walking through a dark, spooky forest. You hear strange noises all around you, and you're getting scared. You see a light up ahead, and you decide to go towards it. You find yourself in a clearing, and in the center of the clearing is a large, dark house. You approach the house and knock on the door. There's no answer. You knock again, and this time, the door opens. You see a dark figure standing in the doorway, and you start to back away. The figure reaches out and grabs you, and you scream. You wake up, and you realize it was all just a dream. You're relieved, but you're also a little bit disappointed. You were really getting into the story! 
+Jorge's response: I fall back asleep 
+AI response: 
+
+You fall back asleep, and you find yourself back in the dark, spooky forest. You hear the same strange noises, and you start to get scared again. You see the same light up ahead, and you decide to go towards it again. You find yourself in the clearing, and in the center of the clearing is the same large, dark house. You approach the house and knock on the door. There's no answer. You knock again, and this time, the door opens. You see the same dark figure standing in the doorway, and you start to back away. The figure reaches out and grabs you, and you scream. You wake up again, and you realize that it was all just a dream. But this time, you're not relieved. You're scared, and you don't know what to do. 
+
+
+You fall back asleep, and you find yourself back in the dark, spooky forest. You hear the same strange noises, and you start to get scared again. You see the same light up ahead, and you decide to go towards it again. You find yourself in the clearing, and in the center of the clearing is the same large, dark house. You approach the house and knock on the door. There's no answer. You knock again, and this time, the door opens. You see the same dark figure standing in the doorway, and you start to back away. The figure reaches out and grabs you, and you scream. You wake up again, and you realize that it was all just a dream. But this time, you're not relieved. You're scared, and you don't know what to do. 
+The game ended on turn 1.Jorge's experience totaled 716 at level 7.16
