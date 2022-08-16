@@ -1,0 +1,11 @@
+A Thriller yet agricultural story about Reese: 
+Opening prompt sent to the AI: Hi, my name is: Reese. Write the first paragraph of a Thriller choose your own adventure story in a agricultural tone: 
+The AI response returned in 6.0288 seconds: 
+
+The sun had been beating down mercilessly on the fields all day. The crops were wilting in the heat, and the farmers were exhausted. As night began to fall, the farmers began to pack up their equipment and head for home.
+
+Suddenly, one of the farmers noticed something strange in the distance. There was a light shining in the middle of the field. The farmer went to investigate, and when he got closer, he saw that the light was coming from a strange object.
+
+The farmer cautiously approached the object and realized that it was some kind of spacecraft. He didn't know what to do, so he decided to go back to the farmhouse and get help. 
+The game ended on turn 2. 
+Reese's experience totaled 1 at level 1

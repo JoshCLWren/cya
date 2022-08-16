@@ -1,3 +1,5 @@
 openai
 black
 isort
+pyttsx3
+pdbpp

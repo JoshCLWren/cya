@@ -1,0 +1,9 @@
+A Western yet Funny story about n: 
+Opening prompt sent to the AI: Hi, my name is: n. Write the first paragraph of a Western choose your own adventure story in a Funny tone: 
+The AI response returned in 5.2075 seconds: 
+
+You're in the middle of a dusty old Western town, surrounded by the remains of a shootout. There are dead bodies everywhere, and the stench of gunpowder hangs heavy in the air. You hear a noise coming from the nearby saloon and decide to investigate.
+
+As you approach the saloon, you can hear the sound of someone inside playing the piano. You cautiously enter, half expecting a gunfight to break out, but instead you find a lone figure sitting at the piano, playing a mournful tune. 
+The game ended on turn 2. 
+n's experience totaled 1 at level 1

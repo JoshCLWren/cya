@@ -1,0 +1,38 @@
+A Lucario is sick yet funny story about Reese: 
+Opening prompt sent to the AI: Hi, my name is: Reese. Write the first paragraph of a Lucario is sick choose your own adventure story in a funny tone: 
+The AI response returned in 3.1770 seconds: 
+
+You wake up to find that your Lucario is sick! You have no idea what could be wrong, but you know you have to do something. You could:
+
+A. Take Lucario to the vet
+
+B. Try to figure out what's wrong yourself
+
+C. Ignore it and hope it goes away
+
+D. Wait for Lucario to get better on its own 
+Reese's response: Buy some pokemon medicine at the pokemon center and give it to lucario 
+The AI response returned in 4.1327 seconds: 
+
+Your Lucario seems to be getting better after taking the medicine! However, you're not sure if it's completely cured. You could:
+
+A. Keep giving Lucario the medicine until it's completely better
+
+B. Stop giving Lucario the medicine and see if the symptoms come back
+
+C. Do nothing, it's not your problem
+
+What will you do? 
+
+
+Your Lucario seems to be getting better after taking the medicine! However, you're not sure if it's completely cured. You could:
+
+A. Keep giving Lucario the medicine until it's completely better
+
+B. Stop giving Lucario the medicine and see if the symptoms come back
+
+C. Do nothing, it's not your problem
+
+What will you do? 
+The game ended on turn 3. 
+Reese's experience totaled 325 at level 3

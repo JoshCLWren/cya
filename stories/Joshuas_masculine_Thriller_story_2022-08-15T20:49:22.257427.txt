@@ -1,0 +1,35 @@
+A Thriller yet masculine story about Joshua: 
+Opening prompt sent to the AI: Hi, my name is: Joshua. Write the first paragraph of a Thriller choose your own adventure story in a masculine tone: 
+The AI response returned in 10.4512 seconds: 
+
+Joshua was in his car, driving home from work, when he got a call from his girlfriend, Emily. She sounded frantic. "Joshua, I'm in trouble. I'm being followed. I don't know what to do."
+
+Joshua's heart raced. He tried to stay calm. "Where are you, Emily? I'll come and get you."
+
+"I'm at the coffee shop on Main Street. Hurry, Joshua. I don't know what they want from me, but I'm scared."
+
+Joshua sped up, his mind racing. What could he do to help Emily? He had to think fast. 
+Joshua's response:  
+The AI response returned in 6.3405 seconds: 
+
+1. Drive to the coffee shop and try to find Emily.
+2. Call the police and try to get them to help.
+3. Stay on the phone with Emily and try to calm her down. 
+
+
+1. Drive to the coffee shop and try to find Emily.
+2. Call the police and try to get them to help.
+3. Stay on the phone with Emily and try to calm her down. 
+Joshua's response: 3 
+The AI response returned in 8.0433 seconds: 
+
+3. Stay on the phone with Emily and try to calm her down.
+
+Emily is still very upset, and she's trying to catch her breath. She's obviously scared and doesn't know what to do. You try to calm her down and tell her that everything is going to be alright. You tell her to stay on the line with you and not to hang up. You try to think of something else to say, but you're not sure what else you can do. 
+
+
+3. Stay on the phone with Emily and try to calm her down.
+
+Emily is still very upset, and she's trying to catch her breath. She's obviously scared and doesn't know what to do. You try to calm her down and tell her that everything is going to be alright. You tell her to stay on the line with you and not to hang up. You try to think of something else to say, but you're not sure what else you can do. 
+The game ended on turn 4. 
+Joshua's experience totaled 561 at level 5
