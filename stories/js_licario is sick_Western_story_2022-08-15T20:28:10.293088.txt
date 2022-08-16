@@ -1,0 +1,15 @@
+A Western yet licario is sick story about j: 
+Opening prompt sent to the AI: Hi, my name is: j. Write the first paragraph of a Western choose your own adventure story in a licario is sick tone: 
+The AI response returned in 4.2189 seconds: 
+
+You're a rancher in the old west. Your ranch is your life, and you'll do anything to protect it. One day, you come across a stranger in town who's looking for a fight. He's a big man, and he looks mean. What do you do?
+
+Do you:
+
+A. Ignore him and go about your business
+
+B. Challenge him to a fight
+
+C. Try to talk him out of it 
+The game ended on turn 2. 
+j's experience totaled 1 at level 1

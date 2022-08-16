@@ -32,7 +32,7 @@ class Game:
                 new_story.write("")
                 print(line)
             print("*" * 88)
-            new_story.write(f"The game ended on turn {self.turn}.")
+            new_story.write(f"The game ended on turn {self.turn}. \n")
             new_story.write(
                 f"{character.name}'s experience totaled {character.experience} at level {int(character.level)}"
             )

@@ -2,18 +2,18 @@
 
 import os
 import time
-
 import openai
 
 
 class Story:
     """Story Class"""
 
-    def __init__(self, name, genre="Fantasy", style="Humorous"):
+    def __init__(self, name, speech, genre="Fantasy", style="Humorous"):
         """Initialize a story"""
         self.genre = genre
         self.style = style
         self.history = []
+        self.speech = speech
         openai.api_key = os.getenv("api_key")
         self.intro = self.opening_prompt(genre, style, name)
 
@@ -51,11 +51,11 @@ class Story:
         self.history.append(f"{name}'s response: {decision}")
         line = self.openai_query(prompt=prompt)
         self.history.append(line)
+        self.speech.speak(line)
         return line
 
-    @staticmethod
-    def pending():
+    def pending(self):
         """Output that the ai is working on a response"""
         print("*" * 88)
-        print("Waiting on a response from the Artificial Intelligence...")
+        self.speech.speak(text="Waiting on a response from the Artificial Intelligence...")
         print("*" * 88)
