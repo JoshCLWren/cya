@@ -2,6 +2,7 @@
 
 import os
 import time
+
 import openai
 
 
@@ -57,5 +58,7 @@ class Story:
     def pending(self):
         """Output that the ai is working on a response"""
         print("*" * 88)
-        self.speech.speak(text="Waiting on a response from the Artificial Intelligence...")
+        self.speech.speak(
+            text="Waiting on a response from the Artificial Intelligence..."
+        )
         print("*" * 88)

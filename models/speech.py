@@ -1,7 +1,7 @@
-
 import pyttsx3
-class Speech:
 
+
+class Speech:
     def __init__(self, speech_decision):
         self.engine = pyttsx3.init()
         self.speech_decision = speech_decision
