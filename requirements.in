@@ -5,3 +5,4 @@ pyttsx3
 pdbpp
 pytest
 flake8
+pytest-cov

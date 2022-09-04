@@ -1,6 +1,6 @@
 """Constants"""
 
-genres = ["Horror", "Rom-Com", "Western", "Pokemon Adventure", "Thriller", "Comedy"]
+genres = ["Horror", "Rom-Com", "Western", "Pokemon Adventure", "Thriller", "Comedy"]  # pragma: no cover
 
 styles = [
     "Funny",
@@ -9,4 +9,4 @@ styles = [
     "masculine",
     "feminine",
     "agricultural",
-]
+]  # pragma: no cover

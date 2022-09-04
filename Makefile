@@ -14,13 +14,13 @@ run:
 	python main.py
 
 deps-compile:
-	pip-compile requirements.in
+	pip-compile requirements.in --no-emit-index-url --no-emit-trusted-host
 
 deps-install:
 	pip-sync requirements.txt
 
 deps-update:
-	pip-compile requirements.in
+	pip-compile requirements.in --no-emit-index-url --no-emit-trusted-host
 	pip-sync requirements.txt
 
 play:
