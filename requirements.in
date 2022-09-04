@@ -6,3 +6,4 @@ pdbpp
 pytest
 flake8
 pytest-cov
+coverage-badge
