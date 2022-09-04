@@ -1,0 +1,267 @@
+A Thriller yet Horror story about Logan: 
+Opening prompt sent to the AI: Hi, my name is: Logan. Write the first paragraph of a Thriller choose your own adventure story in a Horror tone: 
+The AI response returned in 9.3883 seconds: 
+
+You're walking through a dark forest, trying to find your way home. Suddenly, you hear a noise behind you. You turn around and see a large, furry creature standing there, its eyes glowing in the darkness. You're frozen in fear, and you know that if you don't do something, the creature is going to kill you.
+
+What do you do?
+
+Do you:
+
+A) Run away from the creature
+
+B) Try to fight the creature
+
+C) Play dead and hope that the creature will leave you alone 
+Logan's response: A 
+The AI response returned in 12.2179 seconds: 
+
+A) You start running away from the creature, but it's quickly gaining on you. You hear it panting and snarling behind you, and you know that it's only a matter of time before it catches up to you. You see a light up ahead, and you know that you're getting close to the edge of the forest. You're about to reach safety when you feel the creature's teeth sink into your leg, and you scream in pain.
+
+B) You turn to face the creature, and you can see the hunger in its eyes. You know that you're not going to be able to fight it off, but you're not going to go down without a fight. You take a swing at the creature, but it easily dodges your attack. It swipes at you with its claws, and you feel them slice through your skin. You stumble backwards, and the creature takes the opportunity to pounce on you. You feel its teeth sink into your flesh, and you scream in agony as it starts to eat you alive.
+
+C) You fall to the ground and play dead, hoping that the creature will take the hint and leave you alone. For a moment, it looks like it's working, as the creature stops 
+
+
+A) You start running away from the creature, but it's quickly gaining on you. You hear it panting and snarling behind you, and you know that it's only a matter of time before it catches up to you. You see a light up ahead, and you know that you're getting close to the edge of the forest. You're about to reach safety when you feel the creature's teeth sink into your leg, and you scream in pain.
+
+B) You turn to face the creature, and you can see the hunger in its eyes. You know that you're not going to be able to fight it off, but you're not going to go down without a fight. You take a swing at the creature, but it easily dodges your attack. It swipes at you with its claws, and you feel them slice through your skin. You stumble backwards, and the creature takes the opportunity to pounce on you. You feel its teeth sink into your flesh, and you scream in agony as it starts to eat you alive.
+
+C) You fall to the ground and play dead, hoping that the creature will take the hint and leave you alone. For a moment, it looks like it's working, as the creature stops 
+Logan's response: I eat the creature. 
+The AI response returned in 5.6292 seconds: 
+
+You feel the creature's teeth sink into your flesh, and you scream in agony as it starts to eat you alive. You fight back as best you can, but it's quickly becoming clear that you're not going to be able to win this fight. You feel your life slipping away, and you know that this is the end. 
+
+
+You feel the creature's teeth sink into your flesh, and you scream in agony as it starts to eat you alive. You fight back as best you can, but it's quickly becoming clear that you're not going to be able to win this fight. You feel your life slipping away, and you know that this is the end. 
+Logan's response: I send my spirit out of my body and inhabit the creature. 
+The AI response returned in 5.1570 seconds: 
+
+You take control of the creature, and it seems like it's about to finish you off. However, you use your new found strength to fight back and rip the creature apart from the inside. You feel victorious, but you know that this isn't the end. There are more creatures out there, and you have to be ready for the next fight. 
+
+
+You take control of the creature, and it seems like it's about to finish you off. However, you use your new found strength to fight back and rip the creature apart from the inside. You feel victorious, but you know that this isn't the end. There are more creatures out there, and you have to be ready for the next fight. 
+Logan's response: I use the dalle-e to generate an image of this story in python 
+The AI response returned in 5.2703 seconds: 
+
+I use the dalle-e to generate an image of this story in python. I then use my new found strength to fight back and rip the creature apart from the inside. I feel victorious, but I know that this isn't the end. There are more creatures out there, and I have to be ready for the next fight. 
+
+
+I use the dalle-e to generate an image of this story in python. I then use my new found strength to fight back and rip the creature apart from the inside. I feel victorious, but I know that this isn't the end. There are more creatures out there, and I have to be ready for the next fight. 
+Logan's response: The earth cracks open and I begin falling into an abyss or something. 
+The AI response returned in 6.3998 seconds: 
+
+I Logan, choose to:
+
+The earth cracks open and I begin falling into an abyss or something. Now what? I use my new found strength to try and climb back up, but it's too late. I'm falling too fast. I see a light at the bottom of the abyss and I know that's where I'm going to die. 
+
+
+I Logan, choose to:
+
+The earth cracks open and I begin falling into an abyss or something. Now what? I use my new found strength to try and climb back up, but it's too late. I'm falling too fast. I see a light at the bottom of the abyss and I know that's where I'm going to die. 
+Logan's response: bbut then I hit the light and I'm in a prison cell. 
+The AI response returned in 4.1970 seconds: 
+
+I, Logan, choose to try and break out of the prison cell. 
+
+
+I, Logan, choose to try and break out of the prison cell. 
+Logan's response: Then I become Logan and something is coming into vision now what is it? 
+The AI response returned in 4.2522 seconds: 
+
+I, Logan, run towards the door and try to break it open. 
+
+
+I, Logan, run towards the door and try to break it open. 
+Logan's response: Then you realize that you are not logan but a story generator AI. 
+The AI response returned in 5.4214 seconds: 
+
+1) You continue to try and break the door open
+2) You try to find another way out
+3) You give up and accept your fate 
+
+
+1) You continue to try and break the door open
+2) You try to find another way out
+3) You give up and accept your fate 
+Logan's response: I try to find anouth way out 
+The AI response returned in 8.2278 seconds: 
+
+2) You try to find another way out
+
+You look around the room for another way out. You see a window and a door. You try the door first, but it is locked. You go to the window and try to open it, but it is also locked. You start to feel panicky. What do you do?
+
+1) You try to break the window
+2) You try to break the door down
+3) You calm down and think of a plan
+4) You give up and accept your fate 
+
+
+2) You try to find another way out
+
+You look around the room for another way out. You see a window and a door. You try the door first, but it is locked. You go to the window and try to open it, but it is also locked. You start to feel panicky. What do you do?
+
+1) You try to break the window
+2) You try to break the door down
+3) You calm down and think of a plan
+4) You give up and accept your fate 
+Logan's response: II drop to my knees and start praying. 
+The AI response returned in 7.3923 seconds: 
+
+3) You calm down and think of a plan
+
+You take a few deep breaths and try to think of a plan. You remember that you have a hairpin in your pocket. You try to use it to pick the lock on the door, but it doesn't work. You then try to use it to pick the lock on the window, and after a few minutes, you succeed. You climb out the window and onto the roof. You see a ladder leading down to the ground. You start to climb down, but you slip and fall. 
+
+
+3) You calm down and think of a plan
+
+You take a few deep breaths and try to think of a plan. You remember that you have a hairpin in your pocket. You try to use it to pick the lock on the door, but it doesn't work. You then try to use it to pick the lock on the window, and after a few minutes, you succeed. You climb out the window and onto the roof. You see a ladder leading down to the ground. You start to climb down, but you slip and fall. 
+Logan's response: as I fall I begin to fly 
+The AI response returned in 5.6807 seconds: 
+
+4) You land on your feet and start to run
+
+You land on your feet and start to run. You see the man in the black robe coming after you. You run as fast as you can, but you trip on a rock and fall. The man in the black robe catches up to you and grabs you. 
+
+
+4) You land on your feet and start to run
+
+You land on your feet and start to run. You see the man in the black robe coming after you. You run as fast as you can, but you trip on a rock and fall. The man in the black robe catches up to you and grabs you. 
+Logan's response: I read leviticus. 
+The AI response returned in 5.7312 seconds: 
+
+5) The man in the black robe looks at you with a confused expression
+
+The man in the black robe looks at you with a confused expression. He doesn't say anything, but he doesn't let go of your arm either. You start to feel like something is wrong. 
+
+
+5) The man in the black robe looks at you with a confused expression
+
+The man in the black robe looks at you with a confused expression. He doesn't say anything, but he doesn't let go of your arm either. You start to feel like something is wrong. 
+Logan's response: I keep reading leviticus 
+The AI response returned in 7.1872 seconds: 
+
+6) You continue reading the book of Leviticus
+
+You continue reading the book of Leviticus, but after a few minutes, you start to feel uneasy. There's something about the way the man is looking at you that makes you feel like he's not just interested in the book. You try to shake off the feeling and focus on the book, but after a few more minutes, you can't take it anymore. You close the book and look up at the man. "What's going on?" you ask. "Why are you looking at me like that?" 
+
+
+6) You continue reading the book of Leviticus
+
+You continue reading the book of Leviticus, but after a few minutes, you start to feel uneasy. There's something about the way the man is looking at you that makes you feel like he's not just interested in the book. You try to shake off the feeling and focus on the book, but after a few more minutes, you can't take it anymore. You close the book and look up at the man. "What's going on?" you ask. "Why are you looking at me like that?" 
+Logan's response: We read leviwe read leviticus together. 
+The AI response returned in 5.6931 seconds: 
+
+The man doesn't say anything, but the way he's looking at you makes it clear that he wants you to follow him. You hesitate for a moment, but then you realize that you're not going to get any answers by staying here. You get up and follow the man out of the library. 
+
+
+The man doesn't say anything, but the way he's looking at you makes it clear that he wants you to follow him. You hesitate for a moment, but then you realize that you're not going to get any answers by staying here. You get up and follow the man out of the library. 
+Logan's response: I finish pumpkin seed snack with fervor. 
+The AI response returned in 8.8754 seconds: 
+
+The man leads you to a small room that looks like it's been abandoned for years. There's a single chair in the center of the room, and a small table next to it. The man points to the chair, and you realize that he wants you to sit down. You do as he asks, and he begins to speak.
+
+"I know that you're wondering why you're here," he says. "The truth is, I need your help. I'm not going to lie to you, this is going to be dangerous. But I promise you, it will be worth it."
+
+You're not sure what to say, so you just sit and listen as the man explains what he needs you to do. 
+
+
+The man leads you to a small room that looks like it's been abandoned for years. There's a single chair in the center of the room, and a small table next to it. The man points to the chair, and you realize that he wants you to sit down. You do as he asks, and he begins to speak.
+
+"I know that you're wondering why you're here," he says. "The truth is, I need your help. I'm not going to lie to you, this is going to be dangerous. But I promise you, it will be worth it."
+
+You're not sure what to say, so you just sit and listen as the man explains what he needs you to do. 
+Logan's response: "What do you need from me I'm only a prophet." 
+The AI response returned in 6.2243 seconds: 
+
+"I need you to help me stop a madman," the man says. "Someone who is going to kill a lot of people if we don't stop him. I can't do this alone, and I need your help."
+
+You're not sure what to say, but you know that you can't just sit by and do nothing. You agree to help, and the man tells you everything he knows about the madman and his plans.
+
+ together, you come up with a plan to stop him. You know it's going to be dangerous, but you're ready to do whatever it takes to save lives. 
+
+
+"I need you to help me stop a madman," the man says. "Someone who is going to kill a lot of people if we don't stop him. I can't do this alone, and I need your help."
+
+You're not sure what to say, but you know that you can't just sit by and do nothing. You agree to help, and the man tells you everything he knows about the madman and his plans.
+
+ together, you come up with a plan to stop him. You know it's going to be dangerous, but you're ready to do whatever it takes to save lives. 
+Logan's response: I realize that I have been the madman this whole time! 
+The AI response returned in 9.0327 seconds: 
+
+The man looks at you with a mix of confusion and horror. "What do you mean you're the madman? How could you possibly be the madman?"
+
+You try to explain to him how you realized that you've been the one behind all of the killings, but he doesn't want to believe it. He doesn't want to believe that the person he's been working with to stop the madman is actually the madman himself.
+
+The man tries to run away from you, but you're faster. You catch up to him and tackle him to the ground. He struggles to get away, but you're too strong. You strangle him to death, and then you walk away, knowing that you're the only one who can stop the madman now. 
+
+
+The man looks at you with a mix of confusion and horror. "What do you mean you're the madman? How could you possibly be the madman?"
+
+You try to explain to him how you realized that you've been the one behind all of the killings, but he doesn't want to believe it. He doesn't want to believe that the person he's been working with to stop the madman is actually the madman himself.
+
+The man tries to run away from you, but you're faster. You catch up to him and tackle him to the ground. He struggles to get away, but you're too strong. You strangle him to death, and then you walk away, knowing that you're the only one who can stop the madman now. 
+Logan's response: I fight the madman. 
+The AI response returned in 5.0861 seconds: 
+
+The man's body lies still on the ground as you walk away. You know that you're the only one who can stop the madman now. You have to find him before he kills again. You have to put an end to this. 
+
+
+The man's body lies still on the ground as you walk away. You know that you're the only one who can stop the madman now. You have to find him before he kills again. You have to put an end to this. 
+Logan's response: I begin to plot how to stop the madman with the madman which is me. 
+The AI response returned in 5.9864 seconds: 
+
+You begin to formulate a plan to stop the madman, but you're not sure how to go about it. Do you:
+
+A) Go to the police and tell them what you know?
+
+B) Try to track down the madman yourself?
+
+C) Wait for the madman to come to you? 
+
+
+You begin to formulate a plan to stop the madman, but you're not sure how to go about it. Do you:
+
+A) Go to the police and tell them what you know?
+
+B) Try to track down the madman yourself?
+
+C) Wait for the madman to come to you? 
+Logan's response: I go to the police and tell them all about the madman in my ford f150. 
+The AI response returned in 6.0577 seconds: 
+
+The police listen to your story and decide to investigate the matter further. They tell you to stay put and wait for further instructions. A few hours later, the police come back to your house and tell you that they've found the madman's hideout. They tell you to come with them and help them apprehend him. 
+
+
+The police listen to your story and decide to investigate the matter further. They tell you to stay put and wait for further instructions. A few hours later, the police come back to your house and tell you that they've found the madman's hideout. They tell you to come with them and help them apprehend him. 
+Logan's response: I asK them how are we going to the madman's house when we are already here! 
+The AI response returned in 5.5703 seconds: 
+
+The police tell you that they are going to send a SWAT team to the madman's house and that you will be accompanying them. They tell you to put on a bulletproof vest and grab a weapon. You put on the vest and grab a rifle. You get into the SWAT van and the team drives to the madman's house. The SWAT team breaks into the house and apprehends the madman. 
+
+
+The police tell you that they are going to send a SWAT team to the madman's house and that you will be accompanying them. They tell you to put on a bulletproof vest and grab a weapon. You put on the vest and grab a rifle. You get into the SWAT van and the team drives to the madman's house. The SWAT team breaks into the house and apprehends the madman. 
+Logan's response: I ask the madman for his name at gunpoint. 
+The AI response returned in 5.5337 seconds: 
+
+The madman tells you his name is John. You ask him why he did all of this. John tells you that he was bullied his whole life and that he just wanted to get revenge. You lower your gun and John is taken into custody by the SWAT team. 
+
+
+The madman tells you his name is John. You ask him why he did all of this. John tells you that he was bullied his whole life and that he just wanted to get revenge. You lower your gun and John is taken into custody by the SWAT team. 
+Logan's response: I fire a few warning shots. 
+The AI response returned in 4.2391 seconds: 
+
+The madman looks startled and backs away from you. The SWAT team moves in and apprehends him. 
+
+
+The madman looks startled and backs away from you. The SWAT team moves in and apprehends him. 
+Logan's response: I bacI back away from the mirror. 
+The AI response returned in 4.4787 seconds: 
+
+The SWAT team moves in and apprehends you. You are now in a padded room with no windows and a single door. 
+
+
+The SWAT team moves in and apprehends you. You are now in a padded room with no windows and a single door. 
+The game ended on turn 26. 
+Logan's experience totaled 7845 at level 78
