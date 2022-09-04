@@ -4,3 +4,4 @@ isort
 pyttsx3
 pdbpp
 pytest
+flake8
