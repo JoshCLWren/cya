@@ -4,10 +4,6 @@
 #
 #    pip-compile requirements.in
 #
---index-url https://in.thewardro.be/api/v4/projects/1129/packages/pypi/simple
---extra-index-url https://pypi.python.org/simple
---trusted-host in.thewardro.be
---trusted-host pypi.python.org
 
 attrs==22.1.0
     # via pytest
