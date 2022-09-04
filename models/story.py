@@ -27,6 +27,7 @@ class Story:
     def openai_query(self, prompt):
         tic = time.perf_counter()
         self.pending()
+
         response = openai.Completion.create(
             model="text-davinci-002",
             prompt=prompt,
@@ -38,9 +39,7 @@ class Story:
         )
         toc = time.perf_counter()
         result = response["choices"][0]["text"]
-        self.history.append(
-            f"The AI response returned in {toc - tic:0.4f} seconds: {result}"
-        )
+        self.history.append(f"The AI response returned in {toc - tic:0.4f} seconds: {result}")
         return result
 
     def advance_story(self, decision, name):
@@ -58,7 +57,5 @@ class Story:
     def pending(self):
         """Output that the ai is working on a response"""
         print("*" * 88)
-        self.speech.speak(
-            text="Waiting on a response from the Artificial Intelligence..."
-        )
+        self.speech.speak(text="Waiting on a response from the Artificial Intelligence...")
         print("*" * 88)

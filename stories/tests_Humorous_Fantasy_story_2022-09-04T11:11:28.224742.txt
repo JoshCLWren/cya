@@ -1,0 +1,7 @@
+A Fantasy yet Humorous story about test: 
+Opening prompt sent to the AI: Hi, my name is: test. Write the first paragraph of a Fantasy choose your own adventure story in a Humorous tone: 
+The AI response returned in 3.6133 seconds: Opening prompt sent to the AI: Hi, my name is: test. Write the first paragraph of a Fantasy choose your own adventure story in a Humorous tone: The AI response returned in 5.7767 seconds: 
+
+You find yourself in a dark and musty dungeon, surrounded by damp walls and the stench of rotting flesh. You hear the sound of rats scurrying in the distance, and the drip, drip, drip of water echoing through the dreary hall. You see a faint light in the distance, and you walk towards it. As you get closer, you see that the light is coming from a torch that is attached to the wall. You reach for the torch, but just as your hand touches it, you hear a deep, guttural voice behind you say, "Stop! If you take one step closer, I'll turn you into a toad!" 
+The game ended on turn 2. 
+test's experience totaled 1 at level 1

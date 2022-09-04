@@ -1,1 +1,1 @@
-from . import character, game, story
+from . import character, game, speech, story
