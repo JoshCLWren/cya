@@ -35,6 +35,13 @@ def mock_speech():
         yield mock_talk
 
 
+@pytest.fixture(autouse=True)
+def mock_open():
+    with patch("builtins.open") as mock_open:
+        mock_open.return_value = MagicMock()
+        yield mock_open
+
+
 class TestGame:
     def test_game(self):
         game = models.game.Game()
