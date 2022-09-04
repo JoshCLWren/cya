@@ -1,4 +1,4 @@
-![coverage][coverage.svg]
+![coverage](coverage.svg)
 
 This is a `Choose Your Own Adventure style` game like the books from the 80s!
 
