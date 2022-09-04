@@ -1,4 +1,4 @@
-from unittest.mock import patch
+from unittest.mock import MagicMock, patch
 
 import pytest
 
@@ -28,6 +28,13 @@ def mock_ai():
         yield mock_response
 
 
+@pytest.fixture(autouse=True)
+def mock_speech():
+    with patch("models.speech.Speech") as mock_talk:
+        mock_talk.return_value = MagicMock()
+        yield mock_talk
+
+
 class TestGame:
     def test_game(self):
         game = models.game.Game()
@@ -35,7 +42,7 @@ class TestGame:
         assert game.turn == 2
         assert game.running
         char = models.character.Character("test")
-        speech = models.speech.Speech(False)
+        speech = models.speech.Speech()
         story = models.story.Story(
             char.name,
             speech,

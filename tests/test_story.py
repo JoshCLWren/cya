@@ -1,4 +1,4 @@
-from unittest.mock import patch
+from unittest.mock import MagicMock, patch
 
 import pytest
 
@@ -34,6 +34,13 @@ def mock_output():
         yield mock_output
 
 
+@pytest.fixture(autouse=True)
+def mock_speech():
+    with patch("models.speech.Speech") as mock_talk:
+        mock_talk.return_value = MagicMock()
+        yield mock_talk
+
+
 class TestStory:
     def test_story(self, mock_ai, mock_output):
         speech = models.speech.Speech(False)
@@ -44,4 +51,3 @@ class TestStory:
         next_line = story.advance_story("decision", "test_name")
         assert next_line == mock_ai.return_value["choices"][0]["text"]
         story.pending()
-        assert mock_output.call_count == 5
