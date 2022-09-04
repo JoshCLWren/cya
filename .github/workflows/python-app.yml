@@ -37,3 +37,6 @@ jobs:
     - name: Test Coverage
       run: |
         pytest --cov=. --cov-config=.coveragerc --cov-fail-under=72 tests
+    - uses: actions/checkout@v2
+    - name: Coverage Badge
+      uses: tj-actions/coverage-badge-py@v1.8
